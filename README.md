@@ -4,7 +4,7 @@ Free fire Cloning
 
 ls
 
-cd Random Creak
+cd Random-Creak
 
 ls
 free-fire🤟.py
